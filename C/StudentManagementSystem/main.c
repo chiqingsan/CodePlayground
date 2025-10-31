@@ -16,7 +16,8 @@ char readChar()
     return c;
 }
 
-/** 主程序入口 */ int main()
+/** 主程序入口 */ 
+int main()
 {
     struct studentModel students[100] = {0};
     const char *dataFile = "students.txt";
