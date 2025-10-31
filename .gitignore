@@ -1,2 +1,39 @@
-# macOS system files
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# 通用编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# 编译输出目录
+build/
+dist/
+out/
+tmp/
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.a
+*.pyc
+*.pyo
+__pycache__/
